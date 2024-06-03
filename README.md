@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macbook5ana
-- 👀 I’m interested in books, documentaries
+- 👀 I’m interested in books, documentaries, programming and creating
 - 🌱 I’m currently learning history of art and money managing
 - 
 <!---
